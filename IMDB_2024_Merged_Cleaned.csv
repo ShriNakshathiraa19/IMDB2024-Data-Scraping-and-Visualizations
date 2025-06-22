@@ -1,0 +1,209 @@
+Movie name,Ratings,Voting counts,Duration,Genre
+The Unholy Trinity,6.1,424,95,Action
+Gladiator II,6.5,251000,148,Action
+Dune: Part Two,8.5,641000,166,Action
+Venom: The Last Dance,6.0,129000,110,Action
+The Beekeeper,6.3,162000,105,Action
+Civil War,7.0,243000,109,Action
+Twisters,6.5,175000,122,Action
+The Ministry of Ungentlemanly Warfare,6.8,139000,122,Action
+Deadpool & Wolverine,7.5,506000,128,Action
+Kraven the Hunter,5.5,63000,127,Action
+Carry-On,6.5,171000,119,Action
+The Fall Guy,6.8,226000,126,Action
+Furiosa: A Mad Max Saga,7.5,291000,148,Action
+Madame Web,4.0,103000,116,Action
+Freaky Tales,6.2,7100,107,Action
+Cells at Work!,6.7,725,109,Action
+Sonic the Hedgehog 3,6.9,64000,110,Action
+The Count of Monte-Cristo,7.6,37000,178,Action
+Dirty Angels,4.4,4000,104,Action
+Rebel Ridge,6.8,91000,131,Action
+Fight or Flight,6.4,14000,102,Action
+Borderlands,4.7,50000,101,Action
+Transformers One,7.6,54000,104,Action
+Argylle,5.6,94000,139,Action
+Godzilla x Kong: The New Empire,6.0,124000,115,Action
+Road House,6.2,170000,121,Action
+Kingdom of the Planet of the Apes,6.8,155000,145,Action
+Elevation,5.6,24000,91,Action
+Damsel,6.1,111000,110,Action
+Bad Boys: Ride or Die,6.5,102000,115,Action
+Absolution,5.2,8800,112,Action
+The Prosecutor,6.6,2600,117,Action
+The Union,5.4,54000,107,Action
+Maharaja,8.4,70000,141,Action
+Land of Bad,6.6,52000,113,Action
+The Crow,4.7,37000,111,Action
+Red One,6.3,142000,123,Action
+The Lord of the Rings: The War of the Rohirrim,6.3,33000,134,Action
+The Instigators,6.2,39000,101,Action
+Kung Fu Panda 4,6.3,70000,94,Action
+Homestead,5.2,4100,112,Action
+Survive,4.6,3100,90,Action
+Drive-Away Dolls,5.4,24000,84,Action
+Monkey Man,6.8,93000,121,Action
+The Killer,5.7,14000,126,Action
+The Shadow Strays,6.5,9600,144,Action
+Beverly Hills Cop: Axel F,6.4,82000,118,Action
+Canary Black,5.4,12000,101,Action
+Arcadian,5.5,24000,92,Action
+The Killer's Game,5.8,18000,104,Action
+A Complete Unknown,7.3,91000,141,Biography
+I'm Still Here,8.2,112000,137,Biography
+Better Man,7.6,32000,135,Biography
+The Apprentice,7.1,60000,122,Biography
+Saturday Night,6.9,33000,109,Biography
+Queer,6.4,23000,137,Biography
+Maria,6.4,21000,124,Biography
+Queen of the Ring,6.3,2100,129,Biography
+William Tell,5.7,3100,134,Biography
+Ordinary Angels,7.4,16000,118,Biography
+Nr. 24,7.5,16000,111,Biography
+The Bibi Files,7.5,1300,115,Biography
+Young Woman and the Sea,7.5,18000,129,Biography
+Back to Black,6.3,27000,122,Biography
+The Fire Inside,6.7,3000,109,Biography
+Piece by Piece,6.9,6000,93,Biography
+Reagan,6.1,12000,141,Biography
+The Beach Boys,7.1,2200,113,Biography
+Unfrosted,5.5,35000,97,Biography
+Joy,7.1,9900,115,Biography
+Bob Marley: One Love,6.2,35000,107,Biography
+Pavements,7.2,335,128,Biography
+Amaran,8.1,19000,167,Biography
+Harbin,6.2,947,108,Biography
+Boléro,6.6,877,120,Biography
+Cabrini,7.3,9100,142,Biography
+Scoop,6.5,21000,102,Biography
+The Remarkable Life of Ibelin,8.2,13000,103,Biography
+Saint-Exupéry,5.4,495,98,Biography
+Bonhoeffer: Pastor. Spy. Assassin.,6.2,3900,133,Biography
+The Great Lillian Hall,7.3,2100,110,Biography
+El 47,7.2,3600,110,Biography
+Winner,6.5,2700,103,Biography
+Being Maria,6.1,764,100,Biography
+Chandu Champion,7.9,34000,142,Biography
+One to One: John & Yoko,7.3,597,101,Biography
+Monsieur Aznavour,7.3,2800,133,Biography
+Maharaj,6.6,15000,131,Biography
+Super/Man: The Christopher Reeve Story,8.0,9600,104,Biography
+Faith of Angels,5.8,281,98,Biography
+Goebbels and the Führer,6.7,2600,135,Biography
+Music by John Williams,8.2,5000,105,Biography
+Liza: A Truly Terrific Absolutely True Story,7.6,450,104,Biography
+Rob Peace,6.5,2200,120,Biography
+"From Hilde, with Love",6.9,1100,125,Biography
+Riefenstahl,7.1,804,115,Biography
+Marco,6.8,1400,101,Biography
+La casa,6.9,974,83,Biography
+Elton John: Never Too Late,6.5,2000,102,Biography
+Bir Cumhuriyet Sarkisi,7.4,1300,128,Biography
+The Wild Robot,8.2,180000,102,Animation
+Flow,7.9,84000,85,Animation
+Mufasa: The Lion King,6.6,70000,118,Animation
+Moana 2,6.6,109000,100,Animation
+Paddington in Peru,6.7,26000,106,Animation
+Transformers One,7.6,54000,104,Animation
+Inside Out 2,7.5,222000,96,Animation
+Despicable Me 4,6.2,68000,94,Animation
+IF,6.4,59000,104,Animation
+The Lord of the Rings: The War of the Rohirrim,6.3,33000,134,Animation
+Kung Fu Panda 4,6.3,70000,94,Animation
+Attack on Titan the Movie: The Last Attack,9.2,17000,145,Animation
+The Day the Earth Blew Up: A Looney Tunes Movie,6.9,5400,91,Animation
+Memoir of a Snail,7.8,19000,95,Animation
+Harold and the Purple Crayon,5.7,8800,90,Animation
+The Garfield Movie,5.7,25000,101,Animation
+Solo Leveling: ReAwakening,8.8,14000,121,Animation
+Spellbound,5.5,7900,109,Animation
+Wallace & Gromit: Vengeance Most Fowl,7.5,36000,82,Animation
+Spermageddon,5.6,1000,80,Animation
+Piece by Piece,6.9,6000,93,Animation
+Look Back,7.8,16000,58,Animation
+Dan Da Dan: First Encounter,8.2,2900,83,Animation
+Watchmen: Chapter I,7.1,7000,83,Animation
+Orion and the Dark,6.3,18000,93,Animation
+Crayon Shin-chan: Our Dinosaur Diary,6.6,602,106,Animation
+Watchmen: Chapter II,7.1,3400,90,Animation
+The Remarkable Life of Ibelin,8.2,13000,103,Animation
+Justice League: Crisis on Infinite Earths - Part One,6.2,8800,93,Animation
+I Am What I Am 2,7.5,361,134,Animation
+Dragonkeeper,5.7,1800,98,Animation
+Justice League: Crisis on Infinite Earths - Part Three,6.0,4800,94,Animation
+My Hero Academia: You're Next,6.9,2600,110,Animation
+The Most Precious of Cargoes,7.1,1500,81,Animation
+Haikyu!! The Dumpster Battle,7.7,6500,85,Animation
+Doraemon the Movie: Nobita's Earth Symphony,6.6,1600,115,Animation
+The Colors Within,7.1,1100,101,Animation
+Overlord: The Sacred Kingdom,6.9,1400,135,Animation
+That Christmas,6.8,17000,91,Animation
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8800,104,Animation
+Lesbian Space Princess,7.0,180,87,Animation
+Hitpig,5.1,1100,86,Animation
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5600,94,Animation
+Ultraman: Rising,6.9,6600,117,Animation
+Night of the Zoopocalypse,6.0,904,91,Animation
+White Snake: Afloat,6.9,559,133,Animation
+Given 3: To the Sea,7.6,127,80,Animation
+Boys Go to Jupiter,6.8,112,90,Animation
+Frida,7.5,1500,87,Animation
+Blue Lock: Episode Nagi,6.6,2600,91,Animation
+No Other Land,8.3,14000,92,Documentary
+2073,5.0,3200,85,Documentary
+The Bibi Files,7.5,1300,115,Documentary
+The Beach Boys,7.1,2200,113,Documentary
+Pavements,7.2,335,128,Documentary
+Will & Harper,7.4,12000,114,Documentary
+Secret Mall Apartment,7.3,521,91,Documentary
+The Remarkable Life of Ibelin,8.2,13000,103,Documentary
+Sugarcane,7.0,3400,107,Documentary
+Architecton,6.5,400,98,Documentary
+Lover Stalker Killer,7.0,14000,90,Documentary
+One to One: John & Yoko,7.3,597,101,Documentary
+Cheech & Chong's Last Movie,7.2,458,120,Documentary
+The Program,7.1,841,102,Documentary
+The Menendez Brothers,7.0,9700,119,Documentary
+Super/Man: The Christopher Reeve Story,8.0,9600,104,Documentary
+Afternoons of Solitude,7.3,709,125,Documentary
+Behind the Lines,9.0,23,107,Documentary
+Moses,8.3,124,127,Documentary
+The Bloody Hundredth,7.5,2700,62,Documentary
+Black Box Diaries,7.5,3700,102,Documentary
+Harley Flanagan: Wired for Chaos,6.2,22,99,Documentary
+Music by John Williams,8.2,5000,105,Documentary
+Soundtrack to a Coup d'Etat,7.8,3200,150,Documentary
+Liza: A Truly Terrific Absolutely True Story,7.6,450,104,Documentary
+Brats,6.5,7000,92,Documentary
+Am I Racist?,6.7,17000,100,Documentary
+Billy & Molly: An Otter Love Story,8.0,2000,77,Documentary
+Every Little Thing,7.1,314,93,Documentary
+Buy Now! The Shopping Conspiracy,6.7,6700,84,Documentary
+Riefenstahl,7.1,804,115,Documentary
+Beatles '64,7.2,2700,106,Documentary
+A Photographic Memory,7.4,28,87,Documentary
+Yacht Rock: A Dockumentary,7.6,1900,95,Documentary
+Tom Petty: Heartbreakers Beach Party,7.3,285,84,Documentary
+The Greatest Night in Pop,7.9,15000,96,Documentary
+Witches,7.4,1300,90,Documentary
+Elton John: Never Too Late,6.5,2000,102,Documentary
+The Blue Angels,7.2,2800,93,Documentary
+Giannis: The Marvelous Journey,8.3,1800,109,Documentary
+Daughters,7.5,1700,108,Documentary
+Dahomey,6.8,2800,68,Documentary
+Antidote,7.5,141,89,Documentary
+The Last Journey,7.8,5400,95,Documentary
+Avicii - I'm Tim,7.7,7400,95,Documentary
+The Thinking Game,7.6,279,84,Documentary
+Frida,7.5,1500,87,Documentary
+Jim Henson: Idea Man,7.7,3900,111,Documentary
+Bambi: A Tale of Life in the Woods,5.6,245,78,Documentary
+El Apocalipsis de San Juan,6.8,206,110,Documentary
+Despicable Me 4,6.2,68000,94,Family
+Pinnil Oral,7.7,411,127,Family
+Hitpig,5.1,1100,86,Family
+Megamind vs. The Doom Syndicate,2.4,5700,83,Family
+The Thundermans Return,4.9,1900,70,Family
+Porch Pirates,5.0,107,107,Family
+Chithini,7.4,550,151,Family
+Rangeet,7.1,100,94,Family
